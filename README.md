@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-I'm Parthiban Lingam , A dedicated full stack developer.
+I'm Parthiban Lingam , A dedicated React developer.
 </p>
 
 <p align="center">
