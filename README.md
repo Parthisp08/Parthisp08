@@ -29,7 +29,7 @@ My Tech Stacks
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,react" />  
+    <img src="https://skillicons.dev/icons?i=css,html,js,react,next" />  
   </a>
 </p>
 
